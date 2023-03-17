@@ -8,7 +8,7 @@ What's a code versioning tool?
 git,butbucket,codecloud..
 
 Version Control:
-source control, tracking of code.
+Version control, also known as source control, is the practice of tracking and managing changes to software code.
 
 ssh-keygen
 
@@ -26,3 +26,4 @@ ssh-keygen
 
 7. git clone ssh://git@codecloud.web.att.com:7999/st_first/firstjavamanagers.git --branch Test
 
+8. git checkout branchname // To switch a branch
